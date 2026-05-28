@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Balaji+Kullayi+%7C+Site+Reliability+Engineer;Kubernetes+%7C+Cloud+%7C+DevOps+%7C+Platform+Engineering;Building+Reliable+%26+Scalable+Infrastructure;Automating+Everything+Possible+%F0%9F%9A%80" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=1200&lines=Balaji+Kullayi+%7C+Site+Reliability+Engineer;Kubernetes+%7C+Cloud+%7C+DevOps+%7C+Platform+Engineering;LLMOps+%7C+AI+Infrastructure+%7C+GitOps;Building+Reliable+%26+Scalable+Infrastructure;Automating+Everything+Possible+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
