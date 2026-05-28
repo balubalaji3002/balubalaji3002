@@ -20,6 +20,7 @@ name: Balaji Kullayi
 role: Site Reliability Engineer
 location: Bengaluru, India
 experience: 3+ Years
+
 specialization:
   - Kubernetes
   - Cloud Infrastructure
@@ -28,12 +29,6 @@ specialization:
   - CI/CD Automation
   - DevOps & SRE
 
-currently_working_on:
-  - LLMOps
-  - AI Infrastructure
-  - Kubernetes Platform Reliability
-  - GitOps & Automation
-
 certifications:
   - Certified Kubernetes Administrator (CKA)
   - Google Professional Cloud Architect (PCA)
@@ -41,47 +36,53 @@ certifications:
 
 ---
 
-# 🛠️ Tech Arsenal
-
-## ☁️ Cloud & Infrastructure
+# ☁️ Cloud & Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform\&logoColor=white)
+
+---
+
+# ☸️ Kubernetes Ecosystem
+
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge\&logo=helm\&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge\&logo=argo\&logoColor=white)
+![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge)
 
 ---
 
-## 🚀 CI/CD & Automation
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge\&logo=azuredevops\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
-
----
-
-## 📊 Observability Stack
+# 📊 Observability Ecosystem
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge\&logo=splunk\&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-0A0A0A?style=for-the-badge\&logo=grafana\&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge\&logo=elasticsearch\&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge\&logo=opensearch\&logoColor=white)
 
 ---
 
-## 💻 Programming & AI
+# 🤖 LLMOps Ecosystem
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![LLMOps](https://img.shields.io/badge/LLMOps-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0A0A0A?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-1E1E1E?style=for-the-badge)
+
+---
+
+# 🚀 CI/CD & Automation
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge\&logo=azuredevops\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
 
 ---
 
@@ -103,13 +104,16 @@ https://github.com/balubalaji3002/LLMOPS-Compliance-Orchestrator
 
 ---
 
-# 📈 GitHub Analytics
+# ⚙️ Current Focus
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balubalaji3002&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balubalaji3002&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
+```yaml
+current_focus:
+  - Platform Reliability
+  - LLMOps Infrastructure
+  - AI + DevOps Integration
+  - Production Kubernetes
+  - GitOps Automation
+```
 ---
 
 # 🏆 Achievements & Certifications
@@ -130,17 +134,10 @@ https://github.com/balubalaji3002/LLMOPS-Compliance-Orchestrator
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=balubalaji3002&theme=matrix&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://github.com/balubalaji3002">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -152,6 +149,7 @@ https://github.com/balubalaji3002/LLMOPS-Compliance-Orchestrator
 <a href="https://leetcode.com/u/kullayibalaji/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
 </p>
 
 ---
