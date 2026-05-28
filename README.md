@@ -19,7 +19,7 @@ Building scalable, observable and production-grade infrastructure.
 name: Balaji Kullayi
 role: Site Reliability Engineer
 location: Bengaluru, India
-experience: 3+ Years
+experience: 2.5+ Years
 
 specialization:
   - Kubernetes
